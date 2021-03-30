@@ -1,0 +1,22 @@
+<config>
+
+    <file>
+	<source_path>C:\Windows\system32</source_path>
+	<destination_path>C:/Users/KimAlex/Desktop/OS_shutilcheck</destination_path>
+	<file_name>kernel+100500.dll</file_name>
+	</file>
+
+	<file>
+	<source_path>C:\Windows\system32</source_path>
+	<destination_path>C:/Users/KimAlex/Desktop/OS_shutilcheck/funnyman</destination_path>
+	<file_name>kernel32.dll</file_name>
+	</file>
+
+	<file>
+	<source_path>/home/alex/Рабочий стол/Test</source_path>
+	<destination_path>/home/alex/hhh/ppp</destination_path>
+	<file_name>150 questions.py</file_name>
+	</file>
+
+	
+</config>
